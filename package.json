@@ -10,6 +10,9 @@
     "type": "git",
     "url": "git+https://github.com/rockerzega/demo-lib.git"
   },
+  "publishConfig": {
+    "@rockerzega:registry": "https://npm.pkg.github.com"
+  },
   "keywords": [
     "libreria"
   ],
