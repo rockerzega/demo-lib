@@ -1,0 +1,22 @@
+{
+  "name": "@rockerzega/demo-lib",
+  "version": "1.0.0",
+  "description": "Test de libreria instalable",
+  "main": "index.js",
+  "scripts": {
+    "test": "exit 0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rockerzega/demo-lib.git"
+  },
+  "keywords": [
+    "libreria"
+  ],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/rockerzega/demo-lib/issues"
+  },
+  "homepage": "https://github.com/rockerzega/demo-lib#readme"
+}
